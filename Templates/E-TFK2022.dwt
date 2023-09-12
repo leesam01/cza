@@ -1,0 +1,479 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="../images/CZA.png" type="image/png">
+<title>CZA</title>
+<link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="../css/theme.scss.css" rel="stylesheet" type="text/css" media="all">
+<style type="text/css">
+@import url("../css/theme.scss.css");
+@import url("../css/zentangle.scss.css");
+a{text-decoration:none}
+</style>
+<!--[if (gt IE 9)|!(IE)]><!--><script src="../js/shopify_common-040322ee69221c50a47032355f2f7e6cbae505567e2157d53dfb0a2e7701839c.js" defer="defer"></script><!--<![endif]-->
+    <!--[if lte IE 9]><script src="//cdn.shopify.com/s/assets/themes_support/shopify_common-040322ee69221c50a47032355f2f7e6cbae505567e2157d53dfb0a2e7701839c.js"></script><![endif]-->
+  
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="../js/vendor.js" defer="defer"></script><!--<![endif]-->
+  <!--[if lt IE 9]><script src="//cdn.shopify.com/s/files/1/1815/5775/t/2/assets/vendor.js?11558732263665279620"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="../js/theme.js" defer="defer"></script><!--<![endif]-->
+  <!--[if lt IE 9]><script src="//cdn.shopify.com/s/files/1/1815/5775/t/2/assets/theme.js?11558732263665279620"></script><![endif]-->
+
+  <!--GSMOD-->
+  <!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">-->
+  <!--<link href="https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i" rel="stylesheet">-->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CZA</title>
+<meta property="og:site_name" content="BLOG">
+<meta property="og:title" content="Tangle For Health 2021！">
+<meta property="og:type" content="article">
+<meta property="og:description" content="生活當中總是免不了有壓力或是不順的時候，甚至有些時候還令人恐慌，這時不妨一起和我們透過畫畫來舒緩這些緊張的情緒吧！">
+<meta property="og:image" content="https://s3.ap-northeast-1.amazonaws.com/cza.asia/E-TFK2022/1440_450-web.jpg">	
+	
+	
+<!-- TemplateEndEditable -->
+
+<link rel="stylesheet" media="screen" href="../css/styles.css">
+
+    <link href="../css/zentangle.scss.css" rel="stylesheet" type="text/css" media="all">
+<script src="../js/spb.js"></script>
+<meta class="foundation-mq">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+  <div id="shopify-section-header-foundation" class="shopify-section">
+    <div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="large" data-t="wcryt6-t" style="display: none;">
+      <div class="title-bar-title"><a href="" itemprop="url" class="site-logo site-header__logo-image">
+          
+            <img src="../images/zentangle-logo.png" alt="Zentangle" itemprop="logo">
+         
+        </a></div>
+        
+        <button class="menu-icon" type="button" data-toggle="example-menu"></button>
+</div>
+	  </div>
+   	<div class="top-bar-bg">
+<div class="top-bar topbar-responsive" id="example-menu">
+
+  <div class="top-bar-left">
+  <div class="show-for-large-up">
+      <a href="../index.html" itemprop="url" class="site-logo site-header__logo-image">
+          
+            <img src="../images/logo%20CZA-01.png" alt="CZA" width="150" itemprop="logo">
+          
+        </a>
+        </div>
+     <ul class="vertical large-horizontal menu menu-left dropdown" data-responsive-menu="drilldown large-dropdown" role="menubar" data-t="4c8utf-t" data-mutate="lm3hf4-responsive-menu">
+    <li class="show-for-medium-down" role="menuitem">
+      <!--<input class="input-field search-field" type="search" placeholder="Search" />-->
+      </li>
+        <li class="is-dropdown-submenu-parent opens-right" role="menuitem" aria-haspopup="true" aria-label="Learn">
+              <a href="../C-About CZA.html" class="site-nav__link">
+                中文禅绕艺术机构CZA
+              </a>
+              <ul class="no-bullets vertical menu submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+                <li class="hide-for-large-up is-submenu-item is-dropdown-submenu-item" role="menuitem"><a href="../C-About%20CZA.html" class="site-nav__link">中文禅绕艺术机构CZA</a></li>
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../C-About CZA.html"> 关于CZA</a>
+                    </li>        
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../C-CZA regulation.html">CZA章程</a>
+                    </li>
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../C-CZA News.html">CZA活动</a>
+                    </li>
+                      <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a href="https://jinshuju.net/f/uuMm9P" target="_blank" class="subitem">申请加入会员</a>
+                    </li>   
+              </ul>
+            </li>
+       <li class="is-dropdown-submenu-parent opens-right" role="menuitem" aria-haspopup="true" aria-label="Events">
+              <a href="" class="site-nav__link">
+               CZA活動 
+              </a>
+              <ul class="no-bullets vertical menu submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+                <li class="hide-for-large-up is-submenu-item is-dropdown-submenu-item" role="menuitem"><a href="" class="site-nav__link"> CZA活動 </a></li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+						 <a class="subitem" href="E-TFH list.html">Tangle for Health</a></li>
+                     <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+						 <a class="subitem" href="E-TFK list.html">Tangle for Kids</a></li>
+                  <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+	                  <a href="E-salon list.html">CZA小客厅 | 禅绕沙龙</a>
+	                </li>
+              </ul>
+            </li>
+        <li class="is-dropdown-submenu-parent opens-right" role="menuitem" aria-haspopup="true" aria-label="Learn">
+              <a href="../Z-Learn.html" class="site-nav__link">
+                认识禅绕
+              </a>
+              <ul class="no-bullets vertical menu submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+                <li class="hide-for-large-up is-submenu-item is-dropdown-submenu-item" role="menuitem"><a href="../Z-Learn.html" class="site-nav__link">认识禅绕</a></li>
+                
+
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../L-Get Started.html">开始禅绕画之旅</a>
+                    </li>
+                  
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../L-About the Zentangle Method.html">禅绕画方法</a>
+                    </li>
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../L-Learn More.html">进一步了解</a>
+                    </li>
+                  <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a href="../CZT list.html" target="_blank" class="subitem">寻找CZT会员</a>
+                    </li>
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../L-FAQ.html">禅绕释疑集</a>
+                    </li>
+                  <!-- 
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../L-Testimonials.html">视频</a>
+                    </li>
+                 
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../L-Studies Stories.html">你与Zentangle的故事</a>
+                    </li>
+                  -->
+              </ul>
+            </li>
+       <li class="is-dropdown-submenu-parent opens-right" role="menuitem" aria-haspopup="true" aria-label="Shop">
+              <a href="https://store.cwlinc.com.tw" target="_blank" class="site-nav__link" >
+                禅绕商品
+              </a>
+              <ul class="no-bullets vertical menu submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+                <li class="hide-for-large-up is-submenu-item is-dropdown-submenu-item" role="menuitem"><a href="https://store.cwlinc.com.tw" class="site-nav__link">禅绕商品</a></li>
+                
+
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="https://store.cwlinc.com.tw/zentangle-products/first-contact.html" target="_blank">初接触禅绕</a>
+                    </li>
+                  
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="https://store.cwlinc.com.tw/zentangle-products/zentangle-paper-tiles.html" target="_blank">纸砖</a>
+                    </li>
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="https://store.cwlinc.com.tw/zentangle-products/tools.html" target="_blank">笔类</a>
+                    </li>
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="https://store.cwlinc.com.tw/zentangle-products/book.html" target="_blank">书册</a>
+                    </li>
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="https://store.cwlinc.com.tw/zentangle-products/gift.html" target="_blank">礼物</a>
+                    </li>
+              </ul>
+            </li>        
+        <li class="is-dropdown-submenu-parent opens-right" role="menuitem" aria-haspopup="true" aria-label="Share">
+              <a href="../Z-share.html" class="site-nav__link">
+               分享 
+              </a>
+              <ul class="no-bullets vertical menu submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+                <li class="hide-for-large-up is-submenu-item is-dropdown-submenu-item" role="menuitem"><a href="../Z-share.html" class="site-nav__link">分享 </a></li>
+                
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../S-Zentangle Mosaic App.html">了解Zentangle Mosaic App</a>
+                    </li>
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../S-Become a Certified Zentangle Teacher.html">成为禅绕画认证教师CZT</a>
+                    </li>
+                  
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../S-Zentangle Apprentice.html">禅绕画初学者</a>
+                    </li>
+                  <!--
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="https://zentangle.events/certified-zentangle-teachers/?action=cztlist" target="_blank" >你身边的 CZT </a>
+                    </li>
+                 
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../S-Zentangle Foundation.html">奖学金计划</a>
+                    </li>
+                     -->
+                    
+              </ul>
+            </li>
+       <li class="is-dropdown-submenu-parent opens-right" role="menuitem" aria-haspopup="true" aria-label="Resource">
+              <a href="" class="site-nav__link">
+               更多资源 
+              </a>
+              <ul class="no-bullets vertical menu submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+                <li class="hide-for-large-up is-submenu-item is-dropdown-submenu-item" role="menuitem"><a href="" class="site-nav__link">更多资源</a></li>
+                
+                     <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+						 <a class="subitem" href="../R-Videos.html">影音视频</a></li>
+                  <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+	                  <a href="../LL-Newsletter.html">Newsletter</a>
+	                </li>
+				<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+				  <a href="../Blog/Blog-index.html">BLOG</a>
+					</li>
+           	  <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+	                  <a href="../S-We Chat.html">微信公众号</a>
+	                </li>
+	                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+	                  <a href="https://www.weibo.com/cwlsinc" target="_blank">微博</a>
+				</li>
+              </ul>
+            </li>
+	  </ul>
+     </div>
+    </div>
+  </div>
+<div class="container-fluid">
+   <div class="row">
+   
+    <div class="large-12 small-12 columns page-bg-banner text-center">
+      <a href="../E-TFK2022/E-TFK2022end.html" target="_blank"><img src="../E-TFK2022/1440_450-web.jpg" class="img-responsive" alt="Placeholder image"></a>
+  </div>
+  </div>
+</div>
+<div class="row">
+  <div class="small-12 medium-3 large-3 columns">
+   
+  <div class="sidebar-container">
+  <!--THIS ONLY SHOWS FOR BLOG/ ARTICLES-->
+   <p></p>
+      <!--THIS ONLY SHOWS FOR PAGES-->
+  <div class="sidebar-buttons">
+          
+        <a href="../E-TFK2022/E-TFK2022Description.html" class="button outline full">活動說明</a>
+         <a href="../E-TFK2022/E-TFK2022buy.html" target="_blank" class="button outline full">購買材料包</a>         
+        
+	
+        <a href="../E-TFK2022/E-TFK2022video.html" target="_blank" class="button outline full">活動影片-YouTube</a>
+	  <!--<a href="../E-TFK2022/E-TFK2022video2.html" target="_blank" class="button outline full">活動影片-騰訊視頻</a>
+	   <a href="../E-TFH2021/E-TFH2021blog.html" target="_blank" class="button outline full">部落格文章</a>-->
+          <a href="../E-TFK2022/E-TFK2022mosaic.html" target="_blank" class="button outline full">作品藝廊</a>
+	  <a href="https://jinshuju.net/f/g7Y6PC" target="_blank" class="button outline full">上傳作品</a>
+       
+   </div>
+        <ul class="no-bullets sidebar-top-spacing ">
+          
+          <!--Top Nav Link with Sublink Sidebar-->
+          <!--                 
+                <li class="sidebar-links">
+                    <strong><a href="../E-TFH.html" class="active">活动说明</a>
+                </strong></li>
+                        
+                <li class="sidebar-links">
+                   <strong> <a href="https://jinshuju.net/f/oUkUEJ" target="_blank">申请材料包</a></strong>
+                </li>
+                         
+                <li class="sidebar-links">
+                  <strong><a href="https://www.weibo.com/ttarticle/p/show?id=2309404484607062966569" target="_blank">活动內容：微博</a></strong>
+               </li>
+                 <li class="sidebar-links">
+                  <strong><a href="https://www.facebook.com/CZA.Zentangle/posts/2782902431792553" target="_blank">活动內容：Facebook</a></strong>
+               </li>
+                
+                   
+                <li class="sidebar-links">
+                    <a href="../S-Zentangle Apprentice.html"class="active">禅绕画初学者</a>
+                </li>
+                
+         
+                <li class="sidebar-links">
+                    <a target="_blank" href="https://zentangle.events/certified-zentangle-teachers/?action=cztlist">你身边的 CZT </a>
+                </li>
+                    
+                <li class="sidebar-links">
+                    <a href="../S-Zentangle Foundation.html">奖学金计划</a>
+                 </li>
+                  --> 
+  </ul>
+</div>
+    	
+    </div>
+	<!-- TemplateBeginEditable name="EditRegion3" -->
+  <div class="small-12 medium-9 large-9 columns page-container">
+   <h1>Let's Tangle for Kids！</h1>
+     <div class="rte">
+	   <p>生活当中总是免不了有压力或是不顺的时候，甚至有些时候还令人恐慌，这时不妨一起和我们透过画画来舒缓这些紧张的情绪吧！</p>
+		 <p>因为我们的大脑无法专注于画画又同时想到那些令你不安的事情，所以只要透过禅绕画方法-将你的意识集中在简单的线条上，然后你会发现把那些担忧或恐惧被摆到了一边。</p>
+		 <p>或许，那些令人不安的事情不会因此而消失，不过当你借由禅绕画方法的练习，你会感到更放松并且能够以从容不迫的方式来面对、处理身边的大小事。</p>
+	<h3>让我们一起来画禅绕画吧～</h3>
+		 <p>先找个简单舒适的空间，把纸、笔、铅笔准备一下，然后，心存感激~</p>
+		 <p>接着就用你自己的步调与方式来创作。完成之后试着以一个手臂的距离，边转动作品边欣赏它，并且感谢自己挪出一段时间给自己来完成如此美妙的画作。</p>
+	   <p>如果你没有灵感不知道要怎么开始，我们也诚挚的邀请你和我们一起接下来的【Tangle for Health】公益活动。</p>
+	<h3>Tangle for Health</h3>
+		 <p>我们会在活动期间的每一周，透过线上影片的方式，邀请大家使用身边所拥有的材料，跟着Tangle For Health影片，一次一笔画，用沉稳的线条，专注且放松的来创作禅绕。</p>
+	   <p>Tangle For Health系列影片，预计于3月24日(二)开始陆续公布。</p>
+		 <h3>活动流程</h3>
+		 <div><img src="../images/Event/TFH流程圖-01.png" class="img-responsive" alt="Placeholder image"></div>
+
+     </div>
+ </div>
+	 <!-- TemplateEndEditable -->  
+  </div>
+<div id="shopify-section-footer" class="shopify-section">
+   
+  <footer class="site-footer" role="contentinfo">
+
+  <div class="full junk-droor small--text-center">
+    <div class="wrapper">
+      <div class="row">
+        
+        
+       <div class="small-12 large-expand columns">
+          <h3>认识禅绕</h3>
+            <ul class="no-bullets">
+				
+	                <li>
+	                  <a href="../Z-Learn.html">认识禅绕</a>
+	                </li>
+	                         	             
+	                <li>
+	                  <a href="../L-Get Started.html">开始禅绕画之旅</a>
+	                </li>
+	            
+             		<li>
+	                  <a href="../L-About the Zentangle Method.html">禅绕画方法</a>
+	                </li>
+	                          
+	                <li>
+	                  <a href="../L-Learn More.html">进一步了解</a>
+	                </li>
+	            <li>
+	                  <a target="_blank" href="../CZT list.html">寻找CZT会员</a>
+	                </li>
+	            
+	                <li>
+						<a href="../L-FAQ.html">禅绕释疑集</a>            
+	                 <!-- <li>
+	                  <a href="../L-Testimonials.html">视频</a>
+	                </li>
+	          
+	                <li>
+	                  <a href="../L-Studies Stories.html">你与Zentangle的故事</a>
+	                </li>
+	            -->
+            </ul>
+        </div>
+        
+        
+        
+        <div class="small-12 large-expand columns">
+          <h3>禅绕商品</h3>
+            <ul class="no-bullets">
+				
+	                <li>
+	                  <a href="https://store.cwlinc.com.tw/zentangle-products/first-contact.html" target="_blank">初接触禅绕</a>
+	                </li>
+	                          	
+	                <li>
+	                  <a href="https://store.cwlinc.com.tw/zentangle-products/zentangle-paper-tiles.html" target="_blank">纸砖</a>
+	                </li>
+	             
+	                <li>
+	                  <a href="https://store.cwlinc.com.tw/zentangle-products/tools.html" target="_blank">笔类</a>
+	                </li>
+	             
+	                <li>
+	                  <a href="https://store.cwlinc.com.tw/zentangle-products/book.html" target="_blank">书册</a>
+	                </li>
+	                <li>
+	                  <a href="https://store.cwlinc.com.tw/zentangle-products/gift.html" target="_blank">礼物</a>
+	                </li>
+	                
+	            
+            </ul>
+        </div>
+        
+               
+        <div class="small-12 large-expand columns">
+          <h3>分享</h3>
+            <ul class="no-bullets">
+				
+	                <li>
+	                  <a href="../Z-share.html">分享</a>
+	                </li>
+	            
+	                <li>
+	                  <a href="../S-Zentangle Mosaic App.html">了解Zentangle Mosaic App</a>
+	                </li>
+	            
+	                <li>
+	                  <a href="../S-Become a Certified Zentangle Teacher.html">成为禅绕画认证教师CZT</a>
+	                </li>
+	            
+	                <li>
+	                  <a href="../S-Zentangle Apprentice.html">禅绕画初学者</a>
+	                </li>
+	              <!-- <li>
+	                  <a href="../S-Zentangle Foundation.html">奖学金计划</a>
+	                </li>
+	                -->
+	                
+	            
+            </ul>
+        </div>
+        
+        
+        <div class="small-12 large-expand columns">
+          <h3>更多支持</h3>
+            <ul class="no-bullets">
+				
+	                            
+	                <li>
+	                  <a href="../G-Contact Us.html">联系我们</a>
+	                </li>
+	                <li>
+	                  <a href="../G-Intellectual Property Guidelines.html">知识产权准则</a>
+	                </li>
+	                <li><a href="../GI-Trademarks,%20Copyrights%20and%20Patent.html">商标、版权和CZA版权</a></li>
+	           <!-- 
+	                <li>
+	                  <a href="../G-Terms of Service.html">Terms of Service</a>
+	                </li>
+	            -->
+	                <li>
+	                  <a href="../G-Privacy Policy.html">网站宣告</a>
+	                </li>
+            </ul>
+        </div>
+        
+        
+        <div class="small-12 large-expand columns">
+          <h3>更多资源</h3>
+            <ul class="no-bullets">
+				
+	                <li>
+	                  <a href="../LL-Newsletter.html">Newsletter</a>
+	                </li>
+				<li><a href="../Blog/Blog-index.html">BLOG</a>
+					</li>
+	                <li>
+	                  <a href="../R-Videos.html">影音视频</a>
+	                </li>
+           	  <li>
+	                  <a href="../S-We%20Chat.html">微信公众号</a>
+	                </li>
+	                <li>
+	                  <a href="https://www.weibo.com/cwlsinc" target="_blank">微博</a>
+				</li>
+	                
+	                
+	                
+	                
+            </ul>
+ 
+        </div>
+        
+      </div>
+      
+      </div>
+    </div>
+    
+ 
+  
+</footer> 
+</div>
+</body>
+</html>
