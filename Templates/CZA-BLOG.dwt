@@ -429,6 +429,11 @@ a{text-decoration:none}
         <h2 class="sidebar-header">CZT-Asia Seminar</h2>
         <!--THIS IS A LIST OF 5 RECENT POSTS-->
         <ul class="no-bullets recent-posts-list">
+			<li><a href="../Blog/230926CZT-Asia-Seminar-22.html">歡迎CZT-Asia #22加入Zentangle®大家庭
+                    <br>
+                    <span class="date">Sep 26, 2023</span>
+                    </a>
+          </li> 
 			<li><a href="../Blog/230608CZT-Asia-Seminar-21.html">歡迎CZT-Asia #21 加入Zentangle®大家庭
                     <br>
                     <span class="date">Jun 08, 2023</span>
