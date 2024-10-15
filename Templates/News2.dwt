@@ -9,8 +9,8 @@
 <meta property="og:title" content="a NEW Zentangle logo and other CZT Housekeeping"/>
 <meta property="og:description" content="隨著禪繞畫方法持續在中文社群中的茁壯成長，我們也一直在探索更多方式來完整地為大家介紹Zentangle，而這造就出了一個有趣的謎題，那就是該如何用一種象形文字來代表Zentangle本身的英文字母? 於是我們找到了一個兩全其美的答案──禪繞。"/>
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://www.cza.asia/CZT+Newsletter/220211a+NEW+Zentangle+logo+and+other+CZT+Housekeeping/CN220211CHT.html"/>
-<meta property="og:image" content="https://www.cza.asia/CZT+Newsletter/220211a+NEW+Zentangle+logo+and+other+CZT+Housekeeping/LOGO2.png"/>
+<meta property="og:url" content="https://s3.ap-northeast-1.amazonaws.com/cza.asia/CZT+Newsletter/220211a+NEW+Zentangle+logo+and+other+CZT+Housekeeping/CN220211CHT.html"/>
+<meta property="og:image" content="https://s3.ap-northeast-1.amazonaws.com/cza.asia/CZT+Newsletter/220211a+NEW+Zentangle+logo+and+other+CZT+Housekeeping/LOGO2.png"/>
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="630"/>
 <!-- TemplateEndEditable -->
@@ -51,7 +51,7 @@
                     <tbody>
                       <tr>
                        <td class="Image MainText" style="padding:0px;" width="100%" rowspan="1" colspan="1" align="center" valign="top"> 
-                        <div align="center" style="background: #FFFFFF">
+                        <div align="center">
                          <img style="max-width:100% !important;display:block;height:auto !important;" vspace="0" border="0" name="ACCOUNT.IMAGE.785" hspace="0" width="600" src="../images/banner/NewsletterLogp.jpg">
                         </div> </td>
                       </tr>
@@ -63,7 +63,7 @@
                    <td class="EmailContainer" style="padding:10px 0px 10px 0px;" valign="top" width="100%" rowspan="1" colspan="1" align="center">
                    <!-- TemplateBeginEditable name="EditRegion3" -->
                    
-                      <table style="display:table;" border="0" width="100%" cellpadding="0" cellspacing="0" >
+                      <table style="display:table;" border="0" width="100%" cellpadding="0" cellspacing="0" id="content_LETTER.BLOCK4">
                        <tbody>
                          <tr>
                            <td class="Content MainText" style="padding:8px 20px 9px 20px;color:#1a1a1a;font-size:10pt;font-family:Arial,Helvetica,sans-serif;" valign="top" rowspan="1" colspan="1" align="left"><div style="margin-left:30px;text-align:right;  color: rgb(0, 111, 105);" align="right"><strong>February 4, 2022</strong><br>

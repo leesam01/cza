@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CZA</title>
+<!-- TemplateEndEditable -->
+<link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="../css/theme.scss.css" rel="stylesheet" type="text/css" media="all">
+<style type="text/css">
+@import url("../css/theme.scss.css");
+@import url("../css/zentangle.scss.css");
+a{text-decoration:none}
+</style>
+<!--[if (gt IE 9)|!(IE)]><!--><script src="../js/shopify_common-040322ee69221c50a47032355f2f7e6cbae505567e2157d53dfb0a2e7701839c.js" defer="defer"></script><!--<![endif]-->
+    <!--[if lte IE 9]><script src="//cdn.shopify.com/s/assets/themes_support/shopify_common-040322ee69221c50a47032355f2f7e6cbae505567e2157d53dfb0a2e7701839c.js"></script><![endif]-->
+  
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="../js/vendor.js" defer="defer"></script><!--<![endif]-->
+  <!--[if lt IE 9]><script src="//cdn.shopify.com/s/files/1/1815/5775/t/2/assets/vendor.js?11558732263665279620"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="../js/theme.js" defer="defer"></script><!--<![endif]-->
+  <!--[if lt IE 9]><script src="//cdn.shopify.com/s/files/1/1815/5775/t/2/assets/theme.js?11558732263665279620"></script><![endif]-->
+
+  <!--GSMOD-->
+  <!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">-->
+  <!--<link href="https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i" rel="stylesheet">-->
+
+
+<link rel="stylesheet" media="screen" href="../css/styles.css">
+
+    <link href="../css/zentangle.scss.css" rel="stylesheet" type="text/css" media="all">
+<script src="../js/spb.js"></script>
+<meta class="foundation-mq">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="small-12 medium-3 large-3 columns">
+<div class="sidebar-container">
+    <!--THIS ONLY SHOWS FOR BLOG/ ARTICLES-->
+    
+        <div class="sidebar-title">
+            <img src="../images/title-blog.png">
+        </div> 
+        
+   
+    <!--THIS ONLY SHOWS FOR PAGES-->
+        
+        <!--THIS ONLY SHOWS FOR BLOGS-->
+        <h2 class="sidebar-header">Recent Posts</h2>
+        <!--THIS IS A LIST OF 5 RECENT POSTS-->
+        <ul class="no-bullets recent-posts-list">
+            
+            <li><a href="../Blog/201104A Different Kind of Frame.html">不一樣的展示框架
+                    <br>
+                    <span class="date">Nov 03, 2020</span>
+                    </a>
+                </li>    
+			
+			<li><a href="../Blog/201016What's the Right Answer.html">什麼是正確答案?
+                    <br>
+                    <span class="date">Oct 16, 2020</span>
+                    </a>
+                </li>
+			<li><a href="../Blog/200901TFH.html">Tangle for Health
+                    <br>
+                    <span class="date">Sep 01, 2020</span>
+                    </a>
+                </li>
+                
+        </ul>
+       
+       
+	
+	
+	
+	
+    </div>
+    
+</div>
+	</body>
+</html>

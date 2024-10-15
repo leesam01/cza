@@ -90,7 +90,7 @@ a{text-decoration:none}
                      <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
 						 <a class="subitem" href="E-TFK list.html">Tangle for Kids</a></li>
                   <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
-	                  <a class="subitem" href="E-salon list.html">CZA小客厅 | 禅绕沙龙</a>
+	                  <a href="E-salon list.html">CZA小客厅 | 禅绕沙龙</a>
 	                </li>
               </ul>
             </li>
@@ -118,7 +118,15 @@ a{text-decoration:none}
                     <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
                       <a class="subitem" href="../L-FAQ.html">禅绕释疑集</a>
                     </li>
+                  <!-- 
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../L-Testimonials.html">视频</a>
+                    </li>
                  
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../L-Studies Stories.html">你与Zentangle的故事</a>
+                    </li>
+                  -->
               </ul>
             </li>
        <li class="is-dropdown-submenu-parent opens-right" role="menuitem" aria-haspopup="true" aria-label="Shop">
@@ -164,7 +172,16 @@ a{text-decoration:none}
                     <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
                       <a class="subitem" href="../S-Zentangle Apprentice.html">禅绕画初学者</a>
                     </li>
-              
+                  <!--
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="https://zentangle.events/certified-zentangle-teachers/?action=cztlist" target="_blank" >你身边的 CZT </a>
+                    </li>
+                 
+                    <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+                      <a class="subitem" href="../S-Zentangle Foundation.html">奖学金计划</a>
+                    </li>
+                     -->
+                    
               </ul>
             </li>
        <li class="is-dropdown-submenu-parent opens-right" role="menuitem" aria-haspopup="true" aria-label="Resource">
@@ -176,19 +193,18 @@ a{text-decoration:none}
                 
                      <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
 						 <a class="subitem" href="../R-Videos.html">影音视频</a></li>
-                 <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
-	                  <a class="subitem" href="../LL-Newsletter.html">Newsletter</a>
+                  <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+	                  <a href="../LL-Newsletter.html">Newsletter</a>
 	                </li>
 				<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
-				  <a class="subitem" href="../Blog/Blog-index.html">BLOG</a>
+				  <a href="../Blog/Blog-index.html">BLOG</a>
 					</li>
            	  <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
-	                  <a class="subitem" href="../S-We Chat.html">微信公众号</a>
+	                  <a href="../S-We Chat.html">微信公众号</a>
 	                </li>
 	                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
-	                  <a class="subitem" href="https://www.weibo.com/cwlsinc" target="_blank">微博</a>
+	                  <a href="https://www.weibo.com/cwlsinc" target="_blank">微博</a>
 				</li>
-	
               </ul>
             </li>
 	  </ul>
@@ -233,6 +249,7 @@ a{text-decoration:none}
                    <a href="#R-CZA">中文禅绕艺术机构</a>
                     <ul class="sublist">                            
                         <li><a href="#R-CZA">Tangle for Health</a></li>
+						 <li><a href="#R-CZA">Tangle for Kids</a></li>
                         <li><a href="#R-CZA">禅绕练习曲</a></li>
                         </ul>
                 </li>
@@ -304,7 +321,7 @@ a{text-decoration:none}
     </div>
      </div>
  <!-- TemplateEndEditable -->  
- 
+  
 
 <div id="shopify-section-footer" class="shopify-section">
 
@@ -313,7 +330,6 @@ a{text-decoration:none}
   <div class="full junk-droor small--text-center">
     <div class="wrapper">
       <div class="row">
-        
         
         <div class="small-12 large-expand columns">
           <h3>认识禅绕</h3>
@@ -339,7 +355,7 @@ a{text-decoration:none}
 	                </li>
 	            
 	                <li>
-						<a href="L-FAQ.html">禅绕释疑集</a></li>        
+						<a href="L-FAQ.html">禅绕释疑集</a>            
 	                 <!-- <li>
 	                  <a href="L-Testimonials.html">视频</a>
 	                </li>
@@ -350,8 +366,6 @@ a{text-decoration:none}
 	            -->
             </ul>
         </div>
-        
-        
         
         <div class="small-12 large-expand columns">
           <h3>禅绕商品</h3>
@@ -379,8 +393,7 @@ a{text-decoration:none}
 	            
             </ul>
         </div>
-        
-               
+         
         <div class="small-12 large-expand columns">
           <h3>分享</h3>
             <ul class="no-bullets">
@@ -409,7 +422,6 @@ a{text-decoration:none}
             </ul>
         </div>
         
-        
         <div class="small-12 large-expand columns">
           <h3>更多支持</h3>
             <ul class="no-bullets">
@@ -433,7 +445,6 @@ a{text-decoration:none}
             </ul>
         </div>
         
-        
         <div class="small-12 large-expand columns">
           <h3>更多资源</h3>
             <ul class="no-bullets">
@@ -452,11 +463,7 @@ a{text-decoration:none}
 	                <li>
 	                  <a href="https://www.weibo.com/cwlsinc" target="_blank">微博</a>
 				</li>
-	                
-	                
-	                
-	                
-            </ul>
+	         </ul>
  
         </div>
         
@@ -469,5 +476,6 @@ a{text-decoration:none}
   
 </footer> 
 </div>
+	
 </body>
 </html>
